@@ -5,6 +5,7 @@
 
 ## Organizing projects
 * [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+* [workflowr package](https://github.com/jdblischak/workflowr) 
 
 ## Research 
 * [How to Build a Motivated Research Group](http://www.sciencedirect.com/science/article/pii/S1097276510000407)
