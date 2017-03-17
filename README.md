@@ -15,5 +15,7 @@
 * [WaveLab and Reproducible Research](http://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf)
 * [A Multi-Language Computing Environment for Literate Programming and Reproducible Research](https://www.jstatsoft.org/article/view/v046i03)
 
-## Etc
+## Skills for computing 
 * [Unix command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+* [Software carpentry lessons: Unix, git, programming, etc](https://software-carpentry.org/lessons/)
+* [Practical Computing for biologists](http://practicalcomputing.org/)
