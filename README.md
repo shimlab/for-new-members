@@ -19,3 +19,6 @@
 * [Unix command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
 * [Software carpentry lessons: Unix, git, programming, etc](https://software-carpentry.org/lessons/)
 * [Practical Computing for biologists](http://practicalcomputing.org/)
+* [curated list of R tutorials and packages for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR)
+* [curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython)
+
