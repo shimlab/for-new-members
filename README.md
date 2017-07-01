@@ -23,3 +23,5 @@
 * [curated list of R tutorials and packages for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR)
 * [curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython)
 
+## etc
+ * [Statistics for biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance)
