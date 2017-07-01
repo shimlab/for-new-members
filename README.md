@@ -10,6 +10,7 @@
 ## Research 
 * [How to Build a Motivated Research Group](http://www.sciencedirect.com/science/article/pii/S1097276510000407)
 * [How To Choose a Good Scientific Problem](http://www.imbb.forth.gr/people/aeconomou/pdf/HowToChooseGoodProblem.pdf)
+* [MATERIALS FOR NURTURING SCIENTISTS](http://www.weizmann.ac.il/mcb/UriAlon/materials-nurturing-scientists)
 
 ## Reproducible research
 * [WaveLab and Reproducible Research](http://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf)
