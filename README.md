@@ -25,3 +25,7 @@
 
 ## etc
  * [Statistics for biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+
+## For those who would do RNA-seq data analysis
+ * [RNA-Seq: a revolutionary tool for transcriptomics](http://www.nature.com/nrg/journal/v10/n1/full/nrg2484.html) - introduces RNA-sequencing. 
+ * [the Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
