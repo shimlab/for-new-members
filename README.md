@@ -22,6 +22,7 @@
 * [Practical Computing for biologists](http://practicalcomputing.org/)
 * [curated list of R tutorials and packages for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR)
 * [curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython)
+* [How to (re-) learn Python 3 as an advanced R programmer](https://community.rstudio.com/t/how-to-re-learn-python-3-as-an-advanced-r-programmer/7278)
 
 ## etc
  * [Statistics for biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance)
