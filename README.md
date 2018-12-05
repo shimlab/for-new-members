@@ -30,3 +30,6 @@
 ## For those who would do RNA-seq data analysis
  * [RNA-Seq: a revolutionary tool for transcriptomics](http://www.nature.com/nrg/journal/v10/n1/full/nrg2484.html) - introduces RNA-sequencing. 
  * [the Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
+ 
+## Lectures and Tutorials for computational biology 
+ * [Models, Inference & Algorithms (MIA)](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS): new Broad initiative to support learning and collaboration across the interface of biology and mathematics / statistics / machine learning / computer science.
