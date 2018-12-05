@@ -33,3 +33,6 @@
  
 ## Lectures and Tutorials for computational biology 
  * [Models, Inference & Algorithms (MIA)](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS): new Broad initiative to support learning and collaboration across the interface of biology and mathematics / statistics / machine learning / computer science.
+ 
+## Basic Stat
+ * [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
