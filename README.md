@@ -36,3 +36,8 @@
  
 ## Basic Stat
  * [Statistical Thinking for the 21st Century](http://statsthinking21.org/)
+ 
+## Making website
+ * [Easy websites with GitHub Pages](https://kbroman.org/simple_site/)
+
+
